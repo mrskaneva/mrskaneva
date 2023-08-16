@@ -1,0 +1,94 @@
+*{
+  text-align: center;
+  margin: 0.5;
+  padding: 0.5;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  background-color: black;
+  color: white;
+}
+.img{
+  box-sizing: border-box;
+  margin: 30px;
+  padding: 15px;
+}
+p{
+  width: 70%;
+  margin: auto;
+  padding: 30px;
+  text-align:center;
+}
+.hero{
+  width: 0 auto;
+  height: 0 auto;
+  background-image: linear-gradient(rgba(12,3,51,0.3)),rgba(12,3,51,0.3);
+  position: relative;
+  padding: 0 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ul{
+  position: fixed top;
+  display: inline-block;
+  width: 100%;
+}
+.button-quote{
+  width: 50%;
+  margin: 30px;
+  padding: 15px;
+}
+.video{
+display: inline-block;
+position: absolute;
+width: auto;
+right: 0;
+bottom: 0;
+z-index: -1;
+}
+.footer{
+  width: 70%;
+  align-self: center;
+  justify-content: center;
+}
+.hookah-bowls{
+  margin: 30px;
+  padding: 0;
+  width: 70%;
+}
+.hey-there{
+  box-sizing: border-box;
+  margin: auto;
+  padding: 30px;
+}
+.subscribe{
+  width: 70%;
+}
+.list {
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 30px;
+  margin: 30px;
+  list-style: none;
+}
+.button-submit{
+  width: 50%;
+  box-sizing: border-box;  
+}
+.logo{
+  width:100%
+  
+}
+.submit-text{
+  border-color: white;
+}
+.pic-text{
+  top: 30px;
+  padding: 15px;
+  margin: 30px;
+}
+.qr-code img{
+  box-sizing: border-box;
+  width: 30px;
+  height: 15px;
+}
